@@ -1,0 +1,201 @@
+scraping complete
+scraping complete
+__main__ initialized
+scraping complete
+__main__ initialized
+scraping complete
+__main__ initialized
+scraping complete
+__main__ initialized
+connectors.EndOfLifeDateConnector initialized
+scraping complete
+__main__ initialized
+clients.EndOfLifeDateClient initialized
+__main__ initialized
+clients.EndOfLifeDateClient initialized
+Attempt to fetch details of product: spring-boot returned status: 200
+scraping complete
+__main__ initialized
+clients.EndOfLifeDateClient initialized
+{'cycle': '3.4', 'supportedJavaVersions': '17 - 23', 'releaseDate': '2024-11-21', 'eol': '2025-11-21', 'latest': '3.4.0', 'latestReleaseDate': '2024-11-21', 'lts': False, 'extendedSupport': '2027-02-21'}
+{'cycle': '3.3', 'supportedJavaVersions': '17 - 22', 'releaseDate': '2024-05-23', 'eol': '2025-05-23', 'latest': '3.3.5', 'latestReleaseDate': '2024-10-24', 'lts': False, 'extendedSupport': '2026-08-23'}
+{'cycle': '3.2', 'supportedJavaVersions': '17 - 21', 'releaseDate': '2023-11-23', 'eol': '2024-11-23', 'latest': '3.2.10', 'latestReleaseDate': '2024-09-19', 'lts': False, 'extendedSupport': '2026-02-23'}
+{'cycle': '3.1', 'supportedJavaVersions': '17 - 21', 'releaseDate': '2023-05-18', 'eol': '2024-05-18', 'latest': '3.1.12', 'latestReleaseDate': '2024-05-23', 'lts': False, 'extendedSupport': '2025-08-18'}
+{'cycle': '3.0', 'supportedJavaVersions': '17 - 21', 'releaseDate': '2022-11-24', 'eol': '2023-11-24', 'latest': '3.0.13', 'latestReleaseDate': '2023-11-23', 'lts': False, 'extendedSupport': '2025-02-24'}
+{'cycle': '2.7', 'supportedJavaVersions': '8 - 21', 'releaseDate': '2022-05-19', 'eol': '2023-11-24', 'latest': '2.7.18', 'latestReleaseDate': '2023-11-23', 'lts': False, 'extendedSupport': '2026-12-31'}
+{'cycle': '2.6', 'supportedJavaVersions': '8 - 19', 'releaseDate': '2021-11-17', 'eol': '2022-11-24', 'latest': '2.6.15', 'latestReleaseDate': '2023-05-18', 'lts': False, 'extendedSupport': '2024-02-24'}
+{'cycle': '2.5', 'supportedJavaVersions': '8 - 18', 'releaseDate': '2021-05-20', 'eol': '2022-05-19', 'latest': '2.5.15', 'latestReleaseDate': '2023-05-18', 'lts': False, 'extendedSupport': '2023-08-24'}
+{'cycle': '2.4', 'supportedJavaVersions': '8 - 16', 'releaseDate': '2020-11-12', 'eol': '2021-11-18', 'latest': '2.4.13', 'latestReleaseDate': '2021-11-18', 'lts': False, 'extendedSupport': '2023-02-23'}
+{'cycle': '2.3', 'supportedJavaVersions': '8 - 15', 'releaseDate': '2020-05-15', 'eol': '2021-05-20', 'link': 'https://github.com/spring-projects/spring-boot/releases/tag/v__LATEST__.RELEASE', 'latest': '2.3.12', 'latestReleaseDate': '2021-06-10', 'lts': False, 'extendedSupport': '2022-08-20'}
+{'cycle': '2.2', 'supportedJavaVersions': '8 - 15', 'releaseDate': '2019-10-16', 'eol': '2020-10-16', 'link': 'https://github.com/spring-projects/spring-boot/releases/tag/v__LATEST__.RELEASE', 'latest': '2.2.13', 'latestReleaseDate': '2021-01-14', 'lts': False, 'extendedSupport': '2022-01-16'}
+{'cycle': '2.1', 'supportedJavaVersions': '8 - 12', 'releaseDate': '2018-10-30', 'eol': '2019-10-30', 'link': 'https://github.com/spring-projects/spring-boot/releases/tag/v__LATEST__.RELEASE', 'latest': '2.1.18', 'latestReleaseDate': '2020-10-29', 'lts': False, 'extendedSupport': '2021-01-30'}
+{'cycle': '2.0', 'supportedJavaVersions': '8 - 9', 'releaseDate': '2018-03-01', 'eol': '2019-03-01', 'link': 'https://github.com/spring-projects/spring-boot/releases/tag/v__LATEST__.RELEASE', 'latest': '2.0.9', 'latestReleaseDate': '2019-04-03', 'lts': False, 'extendedSupport': '2020-06-01'}
+{'cycle': '1.5', 'supportedJavaVersions': '6 - 8', 'releaseDate': '2017-01-30', 'eol': '2019-08-06', 'link': 'https://github.com/spring-projects/spring-boot/releases/tag/v__LATEST__.RELEASE', 'latest': '1.5.22', 'latestReleaseDate': '2019-08-06', 'lts': False, 'extendedSupport': '2020-11-06'}
+scraping complete
+__main__ initialized
+clients.EndOfLifeDateClient initialized
+{'cycle': '3.4', 'supportedJavaVersions': '17 - 23', 'releaseDate': '2024-11-21', 'eol': '2025-11-21', 'latest': '3.4.0', 'latestReleaseDate': '2024-11-21', 'lts': False, 'extendedSupport': '2027-02-21'}
+{'cycle': '3.3', 'supportedJavaVersions': '17 - 22', 'releaseDate': '2024-05-23', 'eol': '2025-05-23', 'latest': '3.3.5', 'latestReleaseDate': '2024-10-24', 'lts': False, 'extendedSupport': '2026-08-23'}
+{'cycle': '3.2', 'supportedJavaVersions': '17 - 21', 'releaseDate': '2023-11-23', 'eol': '2024-11-23', 'latest': '3.2.10', 'latestReleaseDate': '2024-09-19', 'lts': False, 'extendedSupport': '2026-02-23'}
+{'cycle': '3.1', 'supportedJavaVersions': '17 - 21', 'releaseDate': '2023-05-18', 'eol': '2024-05-18', 'latest': '3.1.12', 'latestReleaseDate': '2024-05-23', 'lts': False, 'extendedSupport': '2025-08-18'}
+{'cycle': '3.0', 'supportedJavaVersions': '17 - 21', 'releaseDate': '2022-11-24', 'eol': '2023-11-24', 'latest': '3.0.13', 'latestReleaseDate': '2023-11-23', 'lts': False, 'extendedSupport': '2025-02-24'}
+{'cycle': '2.7', 'supportedJavaVersions': '8 - 21', 'releaseDate': '2022-05-19', 'eol': '2023-11-24', 'latest': '2.7.18', 'latestReleaseDate': '2023-11-23', 'lts': False, 'extendedSupport': '2026-12-31'}
+{'cycle': '2.6', 'supportedJavaVersions': '8 - 19', 'releaseDate': '2021-11-17', 'eol': '2022-11-24', 'latest': '2.6.15', 'latestReleaseDate': '2023-05-18', 'lts': False, 'extendedSupport': '2024-02-24'}
+{'cycle': '2.5', 'supportedJavaVersions': '8 - 18', 'releaseDate': '2021-05-20', 'eol': '2022-05-19', 'latest': '2.5.15', 'latestReleaseDate': '2023-05-18', 'lts': False, 'extendedSupport': '2023-08-24'}
+{'cycle': '2.4', 'supportedJavaVersions': '8 - 16', 'releaseDate': '2020-11-12', 'eol': '2021-11-18', 'latest': '2.4.13', 'latestReleaseDate': '2021-11-18', 'lts': False, 'extendedSupport': '2023-02-23'}
+{'cycle': '2.3', 'supportedJavaVersions': '8 - 15', 'releaseDate': '2020-05-15', 'eol': '2021-05-20', 'link': 'https://github.com/spring-projects/spring-boot/releases/tag/v__LATEST__.RELEASE', 'latest': '2.3.12', 'latestReleaseDate': '2021-06-10', 'lts': False, 'extendedSupport': '2022-08-20'}
+{'cycle': '2.2', 'supportedJavaVersions': '8 - 15', 'releaseDate': '2019-10-16', 'eol': '2020-10-16', 'link': 'https://github.com/spring-projects/spring-boot/releases/tag/v__LATEST__.RELEASE', 'latest': '2.2.13', 'latestReleaseDate': '2021-01-14', 'lts': False, 'extendedSupport': '2022-01-16'}
+{'cycle': '2.1', 'supportedJavaVersions': '8 - 12', 'releaseDate': '2018-10-30', 'eol': '2019-10-30', 'link': 'https://github.com/spring-projects/spring-boot/releases/tag/v__LATEST__.RELEASE', 'latest': '2.1.18', 'latestReleaseDate': '2020-10-29', 'lts': False, 'extendedSupport': '2021-01-30'}
+{'cycle': '2.0', 'supportedJavaVersions': '8 - 9', 'releaseDate': '2018-03-01', 'eol': '2019-03-01', 'link': 'https://github.com/spring-projects/spring-boot/releases/tag/v__LATEST__.RELEASE', 'latest': '2.0.9', 'latestReleaseDate': '2019-04-03', 'lts': False, 'extendedSupport': '2020-06-01'}
+{'cycle': '1.5', 'supportedJavaVersions': '6 - 8', 'releaseDate': '2017-01-30', 'eol': '2019-08-06', 'link': 'https://github.com/spring-projects/spring-boot/releases/tag/v__LATEST__.RELEASE', 'latest': '1.5.22', 'latestReleaseDate': '2019-08-06', 'lts': False, 'extendedSupport': '2020-11-06'}
+scraping complete
+__main__ initialized
+clients.EndOfLifeDateClient initialized
+TPL: spring-boot, Version: 3.4, EOL:2025-11-21
+TPL: spring-boot, Version: 3.3, EOL:2025-05-23
+TPL: spring-boot, Version: 3.2, EOL:2024-11-23
+TPL: spring-boot, Version: 3.1, EOL:2024-05-18
+TPL: spring-boot, Version: 3.0, EOL:2023-11-24
+TPL: spring-boot, Version: 2.7, EOL:2023-11-24
+TPL: spring-boot, Version: 2.6, EOL:2022-11-24
+TPL: spring-boot, Version: 2.5, EOL:2022-05-19
+TPL: spring-boot, Version: 2.4, EOL:2021-11-18
+TPL: spring-boot, Version: 2.3, EOL:2021-05-20
+TPL: spring-boot, Version: 2.2, EOL:2020-10-16
+TPL: spring-boot, Version: 2.1, EOL:2019-10-30
+TPL: spring-boot, Version: 2.0, EOL:2019-03-01
+TPL: spring-boot, Version: 1.5, EOL:2019-08-06
+scraping complete
+__main__ initialized
+clients.EndOfLifeDateClient initialized
+TPL: spring-boot, Version: 3.4, EOL:2025-11-21
+__main__ initialized
+clients.EndOfLifeDateClient initialized
+TPL: spring-boot, Version: 3.4, EOL:2025-11-21
+__main__ initialized
+clients.EndOfLifeDateClient initialized
+TPL: spring-boot, Version: 3.4, EOL:2025-11-21
+__main__ initialized
+clients.EndOfLifeDateClient initialized
+TPL: spring-boot, Version: 3.4, EOL:2025-11-21
+TPL: spring-boot, Version: 3.3, EOL:2025-05-23
+TPL: spring-boot, Version: 3.2, EOL:2024-11-23
+TPL: spring-boot, Version: 3.1, EOL:2024-05-18
+TPL: spring-boot, Version: 3.0, EOL:2023-11-24
+TPL: spring-boot, Version: 2.7, EOL:2023-11-24
+TPL: spring-boot, Version: 2.6, EOL:2022-11-24
+TPL: spring-boot, Version: 2.5, EOL:2022-05-19
+TPL: spring-boot, Version: 2.4, EOL:2021-11-18
+TPL: spring-boot, Version: 2.3, EOL:2021-05-20
+TPL: spring-boot, Version: 2.2, EOL:2020-10-16
+TPL: spring-boot, Version: 2.1, EOL:2019-10-30
+TPL: spring-boot, Version: 2.0, EOL:2019-03-01
+TPL: spring-boot, Version: 1.5, EOL:2019-08-06
+scraping complete
+__main__ initialized
+clients.EndOfLifeDateClient initialized
+TPL: spring-boot, Version: 3.4, EOL:2025-11-21
+TPL: spring-boot, Version: 3.3, EOL:2025-05-23
+TPL: spring-boot, Version: 3.2, EOL:2024-11-23
+TPL: spring-boot, Version: 3.1, EOL:2024-05-18
+TPL: spring-boot, Version: 3.0, EOL:2023-11-24
+TPL: spring-boot, Version: 2.7, EOL:2023-11-24
+TPL: spring-boot, Version: 2.6, EOL:2022-11-24
+TPL: spring-boot, Version: 2.5, EOL:2022-05-19
+TPL: spring-boot, Version: 2.4, EOL:2021-11-18
+TPL: spring-boot, Version: 2.3, EOL:2021-05-20
+TPL: spring-boot, Version: 2.2, EOL:2020-10-16
+TPL: spring-boot, Version: 2.1, EOL:2019-10-30
+TPL: spring-boot, Version: 2.0, EOL:2019-03-01
+TPL: spring-boot, Version: 1.5, EOL:2019-08-06
+scraping complete
+__main__ initialized
+clients.EndOfLifeDateClient initialized
+TPL: spring-boot, Version: 3.4, EOL:2025-11-21
+__main__ initialized
+clients.EndOfLifeDateClient initialized
+TPL: spring-boot, Version: 3.4, EOL:2025-11-21
+TPL: spring-boot, Version: 3.3, EOL:2025-05-23
+TPL: spring-boot, Version: 3.2, EOL:2024-11-23
+TPL: spring-boot, Version: 3.1, EOL:2024-05-18
+TPL: spring-boot, Version: 3.0, EOL:2023-11-24
+TPL: spring-boot, Version: 2.7, EOL:2023-11-24
+TPL: spring-boot, Version: 2.6, EOL:2022-11-24
+TPL: spring-boot, Version: 2.5, EOL:2022-05-19
+TPL: spring-boot, Version: 2.4, EOL:2021-11-18
+TPL: spring-boot, Version: 2.3, EOL:2021-05-20
+TPL: spring-boot, Version: 2.2, EOL:2020-10-16
+TPL: spring-boot, Version: 2.1, EOL:2019-10-30
+TPL: spring-boot, Version: 2.0, EOL:2019-03-01
+TPL: spring-boot, Version: 1.5, EOL:2019-08-06
+scraping complete
+__main__ initialized
+clients.EndOfLifeDateClient initialized
+TPL: spring-boot, Version: 3.4, EOL-Date:2025-11-21, EOL?: True
+TPL: spring-boot, Version: 3.3, EOL-Date:2025-05-23, EOL?: True
+TPL: spring-boot, Version: 3.2, EOL-Date:2024-11-23, EOL?: False
+TPL: spring-boot, Version: 3.1, EOL-Date:2024-05-18, EOL?: False
+TPL: spring-boot, Version: 3.0, EOL-Date:2023-11-24, EOL?: False
+TPL: spring-boot, Version: 2.7, EOL-Date:2023-11-24, EOL?: False
+TPL: spring-boot, Version: 2.6, EOL-Date:2022-11-24, EOL?: False
+TPL: spring-boot, Version: 2.5, EOL-Date:2022-05-19, EOL?: False
+TPL: spring-boot, Version: 2.4, EOL-Date:2021-11-18, EOL?: False
+TPL: spring-boot, Version: 2.3, EOL-Date:2021-05-20, EOL?: False
+TPL: spring-boot, Version: 2.2, EOL-Date:2020-10-16, EOL?: False
+TPL: spring-boot, Version: 2.1, EOL-Date:2019-10-30, EOL?: False
+TPL: spring-boot, Version: 2.0, EOL-Date:2019-03-01, EOL?: False
+TPL: spring-boot, Version: 1.5, EOL-Date:2019-08-06, EOL?: False
+scraping complete
+__main__ initialized
+clients.EndOfLifeDateClient initialized
+__main__ initialized
+clients.EndOfLifeDateClient initialized
+TPL: spring-boot, Version: 3.4, EOL-Date:2025-11-21, EOL?: True
+TPL: spring-boot, Version: 3.3, EOL-Date:2025-05-23, EOL?: True
+TPL: spring-boot, Version: 3.2, EOL-Date:2024-11-23, EOL?: False
+TPL: spring-boot, Version: 3.1, EOL-Date:2024-05-18, EOL?: False
+TPL: spring-boot, Version: 3.0, EOL-Date:2023-11-24, EOL?: False
+TPL: spring-boot, Version: 2.7, EOL-Date:2023-11-24, EOL?: False
+TPL: spring-boot, Version: 2.6, EOL-Date:2022-11-24, EOL?: False
+TPL: spring-boot, Version: 2.5, EOL-Date:2022-05-19, EOL?: False
+TPL: spring-boot, Version: 2.4, EOL-Date:2021-11-18, EOL?: False
+TPL: spring-boot, Version: 2.3, EOL-Date:2021-05-20, EOL?: False
+TPL: spring-boot, Version: 2.2, EOL-Date:2020-10-16, EOL?: False
+TPL: spring-boot, Version: 2.1, EOL-Date:2019-10-30, EOL?: False
+TPL: spring-boot, Version: 2.0, EOL-Date:2019-03-01, EOL?: False
+TPL: spring-boot, Version: 1.5, EOL-Date:2019-08-06, EOL?: False
+scraping complete
+__main__ initialized
+clients.EndOfLifeDateClient initialized
+TPL: spring-boot, Version: 3.4, EOL-Date:2025-11-21, EOL?: False
+TPL: spring-boot, Version: 3.3, EOL-Date:2025-05-23, EOL?: False
+TPL: spring-boot, Version: 3.2, EOL-Date:2024-11-23, EOL?: True
+TPL: spring-boot, Version: 3.1, EOL-Date:2024-05-18, EOL?: True
+TPL: spring-boot, Version: 3.0, EOL-Date:2023-11-24, EOL?: True
+TPL: spring-boot, Version: 2.7, EOL-Date:2023-11-24, EOL?: True
+TPL: spring-boot, Version: 2.6, EOL-Date:2022-11-24, EOL?: True
+TPL: spring-boot, Version: 2.5, EOL-Date:2022-05-19, EOL?: True
+TPL: spring-boot, Version: 2.4, EOL-Date:2021-11-18, EOL?: True
+TPL: spring-boot, Version: 2.3, EOL-Date:2021-05-20, EOL?: True
+TPL: spring-boot, Version: 2.2, EOL-Date:2020-10-16, EOL?: True
+TPL: spring-boot, Version: 2.1, EOL-Date:2019-10-30, EOL?: True
+TPL: spring-boot, Version: 2.0, EOL-Date:2019-03-01, EOL?: True
+TPL: spring-boot, Version: 1.5, EOL-Date:2019-08-06, EOL?: True
+scraping complete
+__main__ initialized
+clients.EndOfLifeDateClient initialized
+TPL: spring-boot, Version: 3.4, EOL-Date:2025-11-21, EOL?: False
+TPL: spring-boot, Version: 3.3, EOL-Date:2025-05-23, EOL?: False
+TPL: spring-boot, Version: 3.2, EOL-Date:2024-11-23, EOL?: True
+TPL: spring-boot, Version: 3.1, EOL-Date:2024-05-18, EOL?: True
+TPL: spring-boot, Version: 3.0, EOL-Date:2023-11-24, EOL?: True
+TPL: spring-boot, Version: 2.7, EOL-Date:2023-11-24, EOL?: True
+TPL: spring-boot, Version: 2.6, EOL-Date:2022-11-24, EOL?: True
+TPL: spring-boot, Version: 2.5, EOL-Date:2022-05-19, EOL?: True
+TPL: spring-boot, Version: 2.4, EOL-Date:2021-11-18, EOL?: True
+TPL: spring-boot, Version: 2.3, EOL-Date:2021-05-20, EOL?: True
+TPL: spring-boot, Version: 2.2, EOL-Date:2020-10-16, EOL?: True
+TPL: spring-boot, Version: 2.1, EOL-Date:2019-10-30, EOL?: True
+TPL: spring-boot, Version: 2.0, EOL-Date:2019-03-01, EOL?: True
+TPL: spring-boot, Version: 1.5, EOL-Date:2019-08-06, EOL?: True
+scraping complete
