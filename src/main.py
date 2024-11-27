@@ -13,14 +13,21 @@ class EOLScrapper:
     def doScrape(this, products:list):
         edl = EndOfLifeDateClient()
         
+        if products is None:
+            products = edl.listAllProducts()
+        
         for product in products:
             cycleList = edl.getProductDetails(product=product)
             for cycle in cycleList:
-                this.__logger.info("TPL: {}, Version: {}, EOL-Date:{}, EOL?: {}".format(product, cycle['cycle'], cycle['eol'], isEOL(cycle['eol'])))
-                
+                try:
+                    if isEOL(cycle['eol']):
+                        this.__logger.info("TPL: {}, Version: {}, EOL-Date:{}, EOL?: {}".format(product, cycle['cycle'], cycle['eol'], isEOL(cycle['eol'])))
+                except Exception as e:
+                    this.__logger.error(e, exc_info=True)
+                    
         this.__logger.info("scraping complete")
         
 
 if __name__ == '__main__':
     scraper = EOLScrapper()
-    scraper.doScrape(["spring-boot"])
+    scraper.doScrape(None)

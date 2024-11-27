@@ -1,8 +1,6 @@
 import logging
-import configparser
 import json
 import requests
-from requests.models import Response
 
 class EndOfLifeDateClient:
     def __init__(this) -> None:
