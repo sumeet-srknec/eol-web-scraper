@@ -199,3 +199,20 @@ TPL: spring-boot, Version: 2.1, EOL-Date:2019-10-30, EOL?: True
 TPL: spring-boot, Version: 2.0, EOL-Date:2019-03-01, EOL?: True
 TPL: spring-boot, Version: 1.5, EOL-Date:2019-08-06, EOL?: True
 scraping complete
+__main__ initialized
+clients.EndOfLifeDateClient initialized
+TPL: spring-boot, Version: 3.4, EOL-Date:2025-11-21, EOL?: False
+TPL: spring-boot, Version: 3.3, EOL-Date:2025-05-23, EOL?: False
+TPL: spring-boot, Version: 3.2, EOL-Date:2024-11-23, EOL?: True
+TPL: spring-boot, Version: 3.1, EOL-Date:2024-05-18, EOL?: True
+TPL: spring-boot, Version: 3.0, EOL-Date:2023-11-24, EOL?: True
+TPL: spring-boot, Version: 2.7, EOL-Date:2023-11-24, EOL?: True
+TPL: spring-boot, Version: 2.6, EOL-Date:2022-11-24, EOL?: True
+TPL: spring-boot, Version: 2.5, EOL-Date:2022-05-19, EOL?: True
+TPL: spring-boot, Version: 2.4, EOL-Date:2021-11-18, EOL?: True
+TPL: spring-boot, Version: 2.3, EOL-Date:2021-05-20, EOL?: True
+TPL: spring-boot, Version: 2.2, EOL-Date:2020-10-16, EOL?: True
+TPL: spring-boot, Version: 2.1, EOL-Date:2019-10-30, EOL?: True
+TPL: spring-boot, Version: 2.0, EOL-Date:2019-03-01, EOL?: True
+TPL: spring-boot, Version: 1.5, EOL-Date:2019-08-06, EOL?: True
+scraping complete

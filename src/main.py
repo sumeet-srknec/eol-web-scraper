@@ -1,8 +1,7 @@
-import argparse, configparser, json, logging.config
-import concurrent.futures
-from utils.Utils import isEOL
+import logging.config
 
 from clients.EndOfLifeDateClient import EndOfLifeDateClient
+from utils.Utils import isEOL
 
 logging.config.fileConfig('./config/logging.conf')
 
