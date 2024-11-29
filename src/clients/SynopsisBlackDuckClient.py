@@ -1,0 +1,2 @@
+class SynopsisBlackDuckClient:
+    pass
