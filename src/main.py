@@ -30,4 +30,4 @@ class EOLScrapper:
 
 if __name__ == '__main__':
     scraper = EOLScrapper()
-    scraper.doScrape(['spring-boot', 'spring-framework', 'zookeeper'])
+    scraper.doScrape(None)
